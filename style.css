@@ -1,0 +1,17 @@
+@charset "UTF-8";
+/* CSS Document */
+
+input{
+	padding: 10px;
+	margin: 8px 0px;
+}
+
+button{
+	padding: 10px;
+	margin: 8px 0px;
+}
+
+.div1{
+	margin-bottom: 10px;
+	font-weight: bold;
+}
